@@ -1,1 +1,3 @@
-songs.rb
+class Song < ApplicationRecord
+
+end
